@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <a href="https://oceanofwallpapers.com/">View Demo</a>
+    <a href="https://oceanofwallpapers.com/">View Website</a>
     ·
     <a href="https://github.com/harshjadon9/oceanofwallpapers.com/issues/new/choose">Report Bug</a>
     ·
