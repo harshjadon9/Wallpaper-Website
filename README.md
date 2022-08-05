@@ -4,7 +4,7 @@
  <p align="center">Download wallpapers in any and every size!</p>
 </p>
   <p align="center">
-<!--    <img src="https://img.shields.io/django/v/django?style=normal"/> -->
+<img src="https://img.shields.io/badge/private-blueviolet"/>
  <img src="https://img.shields.io/website?style=normal&url=https%3A%2F%2Foceanofwallpapers.com/"/> 
  <img src="https://img.shields.io/badge/License-MIT%20v3-brightgreen?style=normal"/>
 <!--  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"/> -->
