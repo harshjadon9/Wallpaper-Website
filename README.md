@@ -1,6 +1,8 @@
 <p align="center">
- <img width="200px" src="https://user-images.githubusercontent.com/62889318/183054010-63353d15-e77e-4f89-bdec-ff27052e694c.png" align="center" alt="oceanofwallpapers.com" />
- <h2 align="center">ocean of wallpapers</h2>
+ <!--<img width="200px" src="https://user-images.githubusercontent.com/62889318/183054010-63353d15-e77e-4f89-bdec-ff27052e694c.png" align="center" alt="oceanofwallpapers.com" />-->
+ <img width="838" src="https://user-images.githubusercontent.com/62889318/202392111-5890f20c-04f0-4f9b-b554-53026b6ff6ea.png" alt="oceanofwallpapers.com" >
+
+ <h2 align="center">oceanofwallpapers.com</h2>
  <p align="center">Download wallpapers in any and every size!</p>
 </p>
   <p align="center">
@@ -94,7 +96,7 @@
   
   ## Homepage
   
-<img width="1434" alt="Screenshot 2022-08-05 at 6 05 00 PM" src="https://user-images.githubusercontent.com/62889318/183079142-f92f1e1c-d506-4936-bfc8-54387277f693.png">
+<img width="1434" style="border-radius: 20%;" alt="Screenshot 2022-08-05 at 6 05 00 PM" src="https://user-images.githubusercontent.com/62889318/183079142-f92f1e1c-d506-4936-bfc8-54387277f693.png">
   
   ## Griding
   
